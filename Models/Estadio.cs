@@ -14,6 +14,7 @@ namespace ApiLibertadoresHAS.Models
         public string Cidade { get; set; } = string.Empty;
 
         public string Pais { get; set; } = string.Empty;
+        // Feliz dia dos pais atrasado, programa (10/08)
 
         public int Capacidade { get; set; }
 
